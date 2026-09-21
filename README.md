@@ -13,6 +13,6 @@ Este arquivo e gerado automaticamente pela pipeline.
 | Item | Valor |
 |---|---|
 | Status | ⚪ Pulado (algum gate de seguranca falhou) |
-| Commit | `21dc3b3dce22770de1abfb33fe6dd527f212b72a` |
-| Execucao | [35548451103](https://github.com/sbaron81/unifebe-si08-devsecops/actions/runs/35548451103) |
-| Data | 21/09/2026 00:40 UTC |
+| Commit | `b92fcc0d5ef7cbc34a320ac9336fefad5496eda6` |
+| Execucao | [35663364800](https://github.com/gabrielbatschauer/baron-pp1/actions/runs/35663364800) |
+| Data | 21/09/2026 22:34 UTC |
