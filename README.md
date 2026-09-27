@@ -12,7 +12,10 @@ Este arquivo e gerado automaticamente pela pipeline.
 
 | Item | Valor |
 |---|---|
-| Status | ⚪ Pulado (algum gate de seguranca falhou) |
-| Commit | `65c18ba52dccf20cf0c429525cd97fd15a11dc49` |
-| Execucao | [36356722800](https://github.com/gabrielbatschauer/baron-pp1/actions/runs/36356722800) |
-| Data | 27/09/2026 22:53 UTC |
+| Status | 🟢 Sucesso |
+| Imagem | `ghcr.io/gabrielbatschauer/baron-pp1` |
+| Tags | `latest`, `6f841517a3ac067bc269a72c6e4e964ba3accd3f` |
+| Digest | `sha256:2b6fa093dd179ccebfff6f3945c0b19c3a2f3bedff7ad545c307f8281671d5c8` |
+| Commit | `6f841517a3ac067bc269a72c6e4e964ba3accd3f` |
+| Execucao | [36356937973](https://github.com/gabrielbatschauer/baron-pp1/actions/runs/36356937973) |
+| Data | 27/09/2026 22:57 UTC |
