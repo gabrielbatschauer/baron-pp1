@@ -5,8 +5,8 @@ Este arquivo e gerado automaticamente pela pipeline.
 
 ## Alunos
 
-- Aluno1
-- Aluno2
+- Gabriel Batschauer
+- Guilherme Fumagalli
 
 ## Resultado do Docker Build
 
@@ -14,8 +14,8 @@ Este arquivo e gerado automaticamente pela pipeline.
 |---|---|
 | Status | 🟢 Sucesso |
 | Imagem | `ghcr.io/gabrielbatschauer/baron-pp1` |
-| Tags | `latest`, `6f841517a3ac067bc269a72c6e4e964ba3accd3f` |
-| Digest | `sha256:2b6fa093dd179ccebfff6f3945c0b19c3a2f3bedff7ad545c307f8281671d5c8` |
-| Commit | `6f841517a3ac067bc269a72c6e4e964ba3accd3f` |
-| Execucao | [36356937973](https://github.com/gabrielbatschauer/baron-pp1/actions/runs/36356937973) |
-| Data | 27/09/2026 22:57 UTC |
+| Tags | `latest`, `db33dc5a0143e966d2644d796efa858a0598e651` |
+| Digest | `sha256:5729d543e0739655f1030520d4a6c6fe14713bfc27112f30eca025125b8165be` |
+| Commit | `db33dc5a0143e966d2644d796efa858a0598e651` |
+| Execucao | [36370088661](https://github.com/gabrielbatschauer/baron-pp1/actions/runs/36370088661) |
+| Data | 28/09/2026 02:32 UTC |
